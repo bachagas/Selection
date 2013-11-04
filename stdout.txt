@@ -1,0 +1,110 @@
+
+Começou a ler instância A1. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA1'. Error message: 'Test instance file 'test/instanceA_1' does not exist.'
+Skipping.
+
+Começou a ler instância A2. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA2'. Error message: 'Test instance file 'test/instanceA_2' does not exist.'
+Skipping.
+
+Começou a ler instância A3. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA3'. Error message: 'Test instance file 'test/instanceA_3' does not exist.'
+Skipping.
+
+Começou a ler instância A4. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA4'. Error message: 'Test instance file 'test/instanceA_4' does not exist.'
+Skipping.
+
+Começou a ler instância A5. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA5'. Error message: 'Test instance file 'test/instanceA_5' does not exist.'
+Skipping.
+
+Começou a ler instância A6. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA6'. Error message: 'Test instance file 'test/instanceA_6' does not exist.'
+Skipping.
+
+Começou a ler instância A7. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA7'. Error message: 'Test instance file 'test/instanceA_7' does not exist.'
+Skipping.
+
+Começou a ler instância A8. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA8'. Error message: 'Test instance file 'test/instanceA_8' does not exist.'
+Skipping.
+
+Começou a ler instância A9. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA9'. Error message: 'Test instance file 'test/instanceA_9' does not exist.'
+Skipping.
+
+Começou a ler instância A10. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA10'. Error message: 'Test instance file 'test/instanceA_10' does not exist.'
+Skipping.
+
+Começou a ler instância A11. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA11'. Error message: 'Test instance file 'test/instanceA_11' does not exist.'
+Skipping.
+
+Começou a ler instância A12. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA12'. Error message: 'Test instance file 'test/instanceA_12' does not exist.'
+Skipping.
+
+Começou a ler instância A13. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA13'. Error message: 'Test instance file 'test/instanceA_13' does not exist.'
+Skipping.
+
+Começou a ler instância A14. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA14'. Error message: 'Test instance file 'test/instanceA_14' does not exist.'
+Skipping.
+
+Começou a ler instância A15. Tempo inicial: 1380247207421
+Could not read test intance 'test/instanceA15'. Error message: 'Test instance file 'test/instanceA_15' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB1'. Error message: 'Test instance file 'test/instanceB_1' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB2'. Error message: 'Test instance file 'test/instanceB_2' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB3'. Error message: 'Test instance file 'test/instanceB_3' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB4'. Error message: 'Test instance file 'test/instanceB_4' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB5'. Error message: 'Test instance file 'test/instanceB_5' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB6'. Error message: 'Test instance file 'test/instanceB_6' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB7'. Error message: 'Test instance file 'test/instanceB_7' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB8'. Error message: 'Test instance file 'test/instanceB_8' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB9'. Error message: 'Test instance file 'test/instanceB_9' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB10'. Error message: 'Test instance file 'test/instanceB_10' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB11'. Error message: 'Test instance file 'test/instanceB_11' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB12'. Error message: 'Test instance file 'test/instanceB_12' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB13'. Error message: 'Test instance file 'test/instanceB_13' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB14'. Error message: 'Test instance file 'test/instanceB_14' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB15'. Error message: 'Test instance file 'test/instanceB_15' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB16'. Error message: 'Test instance file 'test/instanceB_16' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB17'. Error message: 'Test instance file 'test/instanceB_17' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB18'. Error message: 'Test instance file 'test/instanceB_18' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB19'. Error message: 'Test instance file 'test/instanceB_19' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB20'. Error message: 'Test instance file 'test/instanceB_20' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB21'. Error message: 'Test instance file 'test/instanceB_21' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB22'. Error message: 'Test instance file 'test/instanceB_22' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB23'. Error message: 'Test instance file 'test/instanceB_23' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB24'. Error message: 'Test instance file 'test/instanceB_24' does not exist.'
+Skipping.
+Could not read test intance 'test/instanceB25'. Error message: 'Test instance file 'test/instanceB_25' does not exist.'
+Skipping.
